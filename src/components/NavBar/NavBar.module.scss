@@ -1,0 +1,14 @@
+.nav {
+  border-bottom: 1px solid black;
+  padding: 2vh;
+}
+.list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 5vw;
+  margin-right: 5vw;
+  li {
+    text-decoration: underline;
+  }
+}
