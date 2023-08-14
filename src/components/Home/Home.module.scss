@@ -4,3 +4,12 @@
   flex-direction: column;
   justify-content: flex-start;
 }
+.about {
+  height: 88vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  h1 {
+    font-size: 5em;
+  }
+}

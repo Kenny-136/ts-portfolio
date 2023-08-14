@@ -3,11 +3,11 @@ import NavBar from "../NavBar/NavBar";
 import Footer from "../Footer/Footer";
 const Contact = () => {
 	return (
-		<main className={styles.contact}>
+		<div className={styles.wrapper}>
 			<NavBar />
-			Contact
+			<main>Contact</main>
 			<Footer />
-		</main>
+		</div>
 	);
 };
 

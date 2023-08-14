@@ -3,11 +3,13 @@ import NavBar from "../NavBar/NavBar";
 import Footer from "../Footer/Footer";
 const Home = () => {
 	return (
-		<main className={styles.wrapper}>
+		<div className={styles.wrapper}>
 			<NavBar />
-			<h1>Kenny's Portofolio.</h1>
+			<main className={styles.about}>
+				<h1>Kenny's Portofolio.</h1>
+			</main>
 			<Footer />
-		</main>
+		</div>
 	);
 };
 

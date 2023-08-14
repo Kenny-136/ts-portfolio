@@ -1,6 +1,7 @@
 .nav {
   border-bottom: 1px solid black;
   padding: 2vh;
+  height: 3vh;
 }
 .list {
   display: flex;
@@ -9,6 +10,10 @@
   margin-left: 5vw;
   margin-right: 5vw;
   li {
+    font-size: 3vh;
     text-decoration: underline;
+    a {
+      color: whitesmoke;
+    }
   }
 }
