@@ -6,34 +6,37 @@ const About = () => {
 		<div className={styles.wrapper}>
 			<NavBar />
 			<main>
-				<p>Greetings,</p>
+				<p>Welcome to My Corner of the Internet</p>
+				<p>About Me</p>
 				<p>
-					I am Kenny, an Australian Permanent Resident whose professional
-					journey bridges the worlds of culinary arts and software engineering.
-					With a passion for creation and problem-solving, I bring a unique
-					blend of skills that amplify my contributions as a dedicated team
-					player.
+					I'm Kenny, an Australian resident with a unique journey that's taken
+					me from the world of culinary arts to the realm of software
+					engineering. I have a genuine passion for creating and
+					problem-solving, which has shaped my career choices.
+				</p>
+
+				<p>
+					During my time as a cook, I honed essential skills like teamwork,
+					client communication, and multitasking. I thrived in high-pressure
+					situations, always focused on delivering the best results on time and
+					within budget. Constructive feedback was my ally for improvement. And
+					then I came across Nology with its Software Development Training
+					Program, which really fits what I have set my eyes as a goal. Since
+					then, my journey as a Software Developer has begun.
 				</p>
 				<p>
-					My culinary background, inspired by a love for shows like MasterChef
-					Australia, honed my teamwork, client communication, and multitasking
-					abilities. I thrived in high-pressure environments, consistently
-					delivering optimal outcomes within budget and time constraints.
-					Embracing challenges, I cultivated a calm demeanor and a knack for
-					providing and receiving constructive feedback.
+					Now, as a software engineer, I find the same sense of satisfaction in
+					fixing issues and creating solutions. I apply my skills from the
+					kitchen to foster collaboration and deliver results in my current
+					role.
 				</p>
+
 				<p>
-					Transitioning into Software Engineering, I found my "ikigai" – my true
-					purpose. Fixing errors, resolving bugs, and contributing to innovative
-					solutions drive my motivation. Drawing from culinary and technical
-					experiences, I possess robust problem-solving skills, effective
-					communication, and a talent for prioritization.
+					I'm excited to share my experiences and expertise with you, and I hope
+					you find my corner of the web both informative and inspiring.
 				</p>
-				<p>
-					I am excited to embark on further challenges as a software engineer,
-					using my diverse skill set to foster collaborative success within a
-					dynamic team.
-				</p>
+				<p>Thank you for visiting,</p>
+				<p>Kenny</p>
 			</main>
 			<Footer />
 		</div>
