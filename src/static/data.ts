@@ -2,7 +2,7 @@ export const projects = [
 	{
 		name: "FakeOS",
 		summary:
-			"A Fake 'Desktop OS' Copy created with HTML, SCSS & JavaScript. Currently Has 3 working application Inside of it (Calculator, Weather App, DadJokes App.) ",
+			"This project is a Fake 'Desktop OS' Copy created with HTML, SCSS & JavaScript. Currently Has 3 working application Inside of it (Calculator, Weather App, DadJokes App.) ",
 		tools: ["HTML", "SCSS", "JavaScript"],
 		gitHub: "https://github.com/Kenny-136/FakeOS",
 		live: "https://kenny-136.github.io/FakeOS/",
@@ -10,7 +10,7 @@ export const projects = [
 	{
 		name: "Morse Translator",
 		summary:
-			"an application that translates words / sentences created with English alphabets into Morse Code and vice-versa",
+			"This project translates words / sentences created with English alphabets into Morse Code and vice-versa",
 		tools: ["HTML", "SCSS", "JavaScript", "Jest"],
 		gitHub: "https://github.com/Kenny-136/morse-translator",
 		live: "https://kenny-136.github.io/morse-translator/",

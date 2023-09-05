@@ -3,7 +3,13 @@
 	min-height: 100vh;
 	flex-direction: column;
 	justify-content: flex-start;
-
+	background: linear-gradient(
+		135deg,
+		rgba(143, 83, 215, 1) 0%,
+		rgba(72, 64, 187, 1) 75%,
+		rgba(102, 153, 247, 1) 100%
+	);
+	color: #fff;
 	main {
 		margin: 5em;
 		p {

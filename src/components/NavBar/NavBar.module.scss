@@ -1,19 +1,24 @@
 .nav {
-  border-bottom: 1px solid black;
-  padding: 2vh;
-  height: 3vh;
+	border-bottom: 1px solid black;
+	padding: 2vh;
+	height: 3vh;
+	background-color: #0f0b22;
+	color: #fff;
 }
 .list {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  margin-left: 5vw;
-  margin-right: 5vw;
-  li {
-    font-size: 3vh;
-    text-decoration: underline;
-    a {
-      color: whitesmoke;
-    }
-  }
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 5vw;
+	margin-right: 5vw;
+	li {
+		font-size: 3vh;
+		text-decoration: underline;
+		a {
+			color: #fff;
+			&:hover {
+				color: #f78da7;
+			}
+		}
+	}
 }
