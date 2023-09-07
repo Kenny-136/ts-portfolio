@@ -2,8 +2,6 @@ import styles from "./Projects.module.scss";
 import NavBar from "../NavBar/NavBar";
 import Footer from "../Footer/Footer";
 import { projects } from "../../static/data";
-import { FaGithub } from "react-icons/fa";
-import { MdOpenInBrowser } from "react-icons/md";
 const Projects = () => (
 	<div className={styles.wrapper}>
 		<NavBar />
