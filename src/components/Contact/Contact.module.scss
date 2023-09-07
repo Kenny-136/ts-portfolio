@@ -11,3 +11,21 @@
 	);
 	color: #fff;
 }
+.contact {
+	h2 {
+		font-size: 24px;
+	}
+	padding: 1em;
+	&__header {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+	article {
+		border: 1px solid black;
+		border-radius: 15px;
+		padding: 1em;
+		margin-bottom: 1em;
+	}
+}
