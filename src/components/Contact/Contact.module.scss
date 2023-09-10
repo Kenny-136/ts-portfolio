@@ -12,8 +12,13 @@
 	color: #fff;
 }
 .contact {
-	h2 {
-		font-size: 24px;
+	&__header {
+		h2 {
+			font-size: 48px;
+		}
+		h5 {
+			font-size: 36px;
+		}
 	}
 	padding: 1em;
 	&__header {
