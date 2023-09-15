@@ -1,5 +1,11 @@
 export const projects = [
 	{
+		name: "Employee DB App",
+		summary: "Spring - Java based RESTful APIs with ability to Create, list, Modify and Delete Employee Data.",
+		tools: ["Spring", "Java"],
+		gitHub: "https://github.com/Kenny-136/employee-creator"
+	}
+	{
 		name: "FakeOS",
 		summary:
 			"This project is a Fake 'Desktop OS' Copy created with HTML, SCSS & JavaScript. Currently Has 3 working application Inside of it (Calculator, Weather App, DadJokes App.) ",
@@ -29,6 +35,7 @@ export const projects = [
 			"This project is a hands-on exercise in building a React-based e-commerce website that demonstrates my ability to fetch data, manage routes, integrate Firestore for data storage, and  implement a shopping cart system functionality.",
 		tools: ["React", "Firebase", "SCSS"],
 		gitHub: "https://github.com/Kenny-136/e-commerce",
+		live: "https://kenny-jeans-shop.netlify.app/"
 	},
 	{
 		name: "Minesweeper",
